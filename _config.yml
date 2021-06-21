@@ -89,8 +89,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
-"bioinformatics, R, perl, omics, evolutionary biologist, SCUBA"
+keywords: "bioinformatics, R, perl, omics, evolutionary biologist, SCUBA"
 
 # --- Colours / background image --- #
 
