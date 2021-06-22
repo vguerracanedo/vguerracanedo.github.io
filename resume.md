@@ -6,8 +6,5 @@ show-avatar: true
 nav-short: false
 ---
 
-<div style="text-align: center; margin-top: 90px;">
-  <embed src="https://github.com/vguerracanedo/vguerracanedo.github.io/blob/8d6df62dba9ec180d450109f4af2b493d6dc5766/files/Resume_Guerra.pdf" type="application/pdf"/>
-</div>
-
+<embed src="https://github.com/vguerracanedo/vguerracanedo.github.io/blob/36b52e570e50e3a1009a35dd3b65f7d51b1f81cb/files/Resume_Guerra.pdf" type="application/pdf" />
 
