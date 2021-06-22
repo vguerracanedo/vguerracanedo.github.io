@@ -6,5 +6,4 @@ show-avatar: true
 nav-short: false
 ---
 
-<embed src="https://github.com/vguerracanedo/vguerracanedo.github.io/files/Resume_Guerra.pdf" type="application/pdf" />
-
+<embed src="https://vguerracanedo.github.io/assets/Resume_Guerra.pdf" type="application/pdf"/>
