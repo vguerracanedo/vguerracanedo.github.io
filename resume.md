@@ -6,6 +6,6 @@ show-avatar: true
 nav-short: false
 ---
 
-<object data="https://vguerracanedo.github.io/assets/Resume_Guerra.pdf" type="application/pdf" width="850px" height="2200px" frameBorder="0" >
+<object data="https://vguerracanedo.github.io/assets/Resume_Guerra.pdf" type="application/pdf" width="850px" height="2200px" frameBorder="0" style="text-align: center; margin-top: 90px;" >
 
 <embed src="https://vguerracanedo.github.io/assets/Resume_Guerra.pdf" type="application/pdf"/ >
