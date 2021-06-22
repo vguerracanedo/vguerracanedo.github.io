@@ -96,7 +96,7 @@ keywords: "bioinformatics, R, perl, omics, evolutionary biologist, SCUBA"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#283747"
-navbar-text-col: "#404040"
+navbar-text-col: "#F3F3F3"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#932432"
