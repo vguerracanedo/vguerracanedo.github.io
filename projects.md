@@ -7,7 +7,7 @@ share-description: This is a list of past and ongoing projects
 carbonads: true
 ---
 
-Here is a list of a few of the projects that I have been involved or that I am currently working on. If you would like to talk about any of these projects, please [contact me](/contact) me 
+Here is a list of a few current projects. If you would like to talk about any of these projects, please [contact me](/contact)
 
 ---
 
