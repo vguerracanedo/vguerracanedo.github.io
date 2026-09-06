@@ -5,19 +5,19 @@ subtitle: Selected ongoing and past work
 share-title: Vanessa Guerra Canedo | Projects
 share-description: Selected ongoing and past research projects
 carbonads: true
+---------------
+
+A few things I am working on now, and some favorites from the past. If you would like to talk about any of them, please [contact me](/aboutme).
+
 ---
 
-A few of the projects I am working on now, and some favorites from the past. If you would like to talk about any of them, please [contact me](/contact).
+## Current Work
 
----
-
-### Freshwater Mussel Genetic Resource Repository
+### Freshwater Mussels
 
 My main project at the Smithsonian National Museum of Natural History is the development of a genetic resource repository for freshwater mussels in collaboration with the U.S. Fish and Wildlife Service. We are building a collection of specimens, tissues, nonlethal swabs, and DNA, preserving their provenance and associated data so they remain useful for questions we can ask now—and ones we have not thought of yet.
 
-### Freshwater Mussel Genomics
-
-I also support several freshwater mussel genomics projects. These include 3RAD-seq of wild and propagated populations, where I contribute to both laboratory and computational work, and a long-read reference genome for *Lampsilis rafinesqueana*. I have also contributed computational analyses to a study asking how cementation—an unusual behavior found in some freshwater mussels—evolved (manuscript submitted).
+Alongside the repository, I support several freshwater mussel genomics projects. These include 3RAD-seq of wild and propagated populations, where I contribute to both laboratory and computational work, and a long-read reference genome for *Lampsilis rafinesqueana*. I have also contributed computational analyses to a study asking how cementation—an unusual behavior found in some freshwater mussels—evolved (manuscript submitted).
 
 ---
 
