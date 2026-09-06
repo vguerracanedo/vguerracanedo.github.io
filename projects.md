@@ -1,12 +1,11 @@
 ---
-
 layout: page
 title: Projects
 subtitle: Selected ongoing and past work
 share-title: Vanessa Guerra Canedo | Projects
 share-description: Selected ongoing and past research projects
 carbonads: true
----------------
+---
 
 A few of the projects I am working on now, and some favorites from the past. If you would like to talk about any of them, please [contact me](/contact).
 
