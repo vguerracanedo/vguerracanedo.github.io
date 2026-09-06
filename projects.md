@@ -11,8 +11,6 @@ A few of the projects I am working on now, and some favorites from the past. If 
 
 ---
 
-## Ongoing Projects
-
 ### Freshwater Mussel Genetic Resource Repository
 
 My main project at the Smithsonian National Museum of Natural History is the development of a genetic resource repository for freshwater mussels in collaboration with the U.S. Fish and Wildlife Service. We are building a collection of specimens, tissues, nonlethal swabs, and DNA, preserving their provenance and associated data so they remain useful for questions we can ask now—and ones we have not thought of yet.
