@@ -1,25 +1,40 @@
 ---
+
 layout: page
 title: Projects
-subtitle: How I spend my time
+subtitle: Selected ongoing and past work
 share-title: Vanessa Guerra Canedo | Projects
-share-description: This is a list of past and ongoing projects
+share-description: Selected ongoing and past research projects
 carbonads: true
+---------------
+
+A few of the projects I am working on now, and some favorites from the past. If you would like to talk about any of them, please [contact me](/contact).
+
 ---
 
-Here is a list of a few current projects. If you would like to talk about any of these projects, please [contact me](/contact)
+## Ongoing Projects
+
+### Freshwater Mussel Genetic Resource Repository
+
+My main project at the Smithsonian National Museum of Natural History is the development of a genetic resource repository for freshwater mussels in collaboration with the U.S. Fish and Wildlife Service. We are building a collection of specimens, tissues, nonlethal swabs, and DNA, preserving their provenance and associated data so they remain useful for questions we can ask now—and ones we have not thought of yet.
+
+### Freshwater Mussel Genomics
+
+I also support several freshwater mussel genomics projects. These include 3RAD-seq of wild and propagated populations, where I contribute to both laboratory and computational work, and a long-read reference genome for *Lampsilis rafinesqueana*. I have also contributed computational analyses to a study asking how cementation—an unusual behavior found in some freshwater mussels—evolved (manuscript submitted).
 
 ---
 
-## Publications
+## Past Projects
 
-Can cloning and selfing affect population genetics? I was invited to collaborate in a publication with Dr. Mike Hart, Dr. Maria Byrne, and Dr. Jon Allen to simulate cloning and selfing in sea star populations. The paper titled 
-"Cloning and Selfing Affect Population Genetic Variation In Simulations of Outcrossing, Sexual Sea Stars" is in revision in the peer-reviewed scientific journal "Biological Bulletin". 
+### Single-Copy Sequencing of Influenza
 
-Reproductive genes evolve fast, but perhaps not as fast as we thought when gametic isolation is not one of the isolation barriers. We (Dr. Hart, Dr. Byrne, Dr. Haynes, and I) compared the evidence of selection in reproductive genes of two closely-realted sea stars of Australia that have different mating systems (expected to be under different sexual selection strength). We surprisingly did not find strong evidence of positive selection in the gamete-recognition genes of either of the sea stars. But we found evidence of relaxation. The publication titled "Selection on genes associated with the evolution of divergent life histories: Gamete recognition or something else?" was recently accepted in the peer-reviewd scientific journal "Evolution & Development". 
+At the NIH Vaccine Research Center, I adapted a single-copy sequencing approach previously used with HIV and SARS-CoV-2 for high-throughput long-read sequencing of influenza. We used it to look closely at H5N1 variation and evolution in a universal influenza vaccine study (manuscript submitted).
 
-Would more genes improve coalescent isolation-with-migration (IM) models? In this project, in collaboration with Dr. Mike Hart, Dr. Jon Puritz, and Dr. Maria Byrne, we explore the use of omics data for IM models. The publication is titled "Genomic data improve coalescent inference across a range of demographic parameters and life-histories". This publication is in review in the peer-reviewed scientific journal "Evolution Applications".
+### Fast-Evolving Genes
 
-## Data Analysis
+Much of my work with Mike Hart explored why some genes evolve so quickly, particularly those involved in reproduction. Echinoderms gave us plenty to work with, but the questions also took us into vertebrates, including humans and other mammals. Along the way, I worked with genomic, transcriptomic, population genetic, and simulated data to look at evolution from several angles.
 
-The rate of accumulation of genetic differences between populations and species due to selection may dependent on life history characteristics such as modes of reproduction). In this current study, I am using a large dataset composed of multiple species of sea stars with contrasting life history characteristics to assess two predictions: that gamete-recognition genes show stronger evidence of a response to selection; and that gamete-recognition genes show greater evidence of a response to selection in lineages or species with broadcast spawning and planktonic fertilization than in lineages or species with benthic fertilization. This project is the last chapter of my PhD work with Dr. Mike Hart. 
+### Code and Community
+
+During graduate school, I spent a lot of time teaching genomics and bioinformatics, sharing code, and building course materials with others. Some of those workshops, notes, and bits of research code still live on [GitHub](https://github.com/vguerracanedo).
+
