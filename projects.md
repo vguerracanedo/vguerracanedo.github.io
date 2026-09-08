@@ -32,14 +32,12 @@ I also contribute laboratory and computational work to 3RAD-seq analyses of wild
 
 ### Single-Copy Sequencing and Viral Evolution
 
-At the NIH Vaccine Research Center, I worked across the laboratory and computational sides of high-throughput viral sequencing. I adapted a UMI-based single-copy sequencing approach previously used with HIV and SARS-CoV-2 for long-read PacBio sequencing of influenza, bringing an emerging sequencing approach into a new viral system. We used it to examine H5N1 variation and evolution in a universal influenza vaccine study.
-At the NIH Vaccine Research Center, I worked across the laboratory and computational sides of high-throughput viral sequencing. I adapted a UMI-based single-copy sequencing approach previously used with HIV and SARS-CoV-2 for long-read PacBio sequencing of influenza. On the computational side, I also adapted deep-learning-based sequence correction to reduce errors in homopolymer regions. We used these methods to study influenza variation and evolution.
+At the NIH Vaccine Research Center, I worked across the laboratory and computational sides of high-throughput viral sequencing. I adapted a UMI-based single-copy sequencing approach for long-read PacBio sequencing of influenza, and used deep-learning-based sequence correction to reduce errors in homopolymer regions. We used these methods to study influenza variation and evolution, including H5N1 in a universal influenza vaccine study.
 
 ### Fast-Evolving Genes
 
-My work graduate work at Simon Fraser University explored why some genes evolve so quickly, particularly those involved in reproduction. Echinoderms gave us plenty to work with, but the questions also took us into vertebrates. Along the way, I worked with genomic, transcriptomic, population genetic, and simulated data to look at evolution.
+My graduate work at Simon Fraser University explored why some genes evolve so quickly, particularly those involved in reproduction. Much of this work centered on echinoderms, but the questions also took us into vertebrates. I worked with genomic and transcriptomic data, developing computational approaches for identifying genes, testing patterns of molecular evolution, and exploring population genetic and demographic processes through empirical and simulated data.
 
 ### Code and Community
 
 During graduate school, I spent a lot of time teaching, sharing code, and building course materials with others. Some of those workshops, notes, and bits of research code still live on [GitHub](https://github.com/vguerracanedo).
-
